@@ -17,3 +17,20 @@ $ cd terkey
 ```bash
 $ python extrakey.py
 ```
+
+# Shell Version
+```bash
+$ wget https://raw.githubusercontent.com/alanndz/ExtraKey/master/extrakey.sh
+```
+```bash
+$ chmod +x extrakey.sh
+```
+```bash
+$ ./extrakey.sh
+```
+
+Or
+
+```bash
+$ wget https://raw.githubusercontent.com/alanndz/ExtraKey/master/extrakey.sh && chmod +x extrakey.sh && ./extrakey.sh
+```
