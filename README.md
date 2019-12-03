@@ -9,10 +9,10 @@ $ pkg install python
 $ pkg install git
 ```
 ```bash
-$ git clone https://github.com/kry9ton/extrakey
+$ git clone https://github.com/Kry9toN/extrakey
 ```
 ```bash
-$ cd terkey
+$ cd Extrakey
 ```
 ```bash
 $ python extrakey.py
@@ -20,7 +20,7 @@ $ python extrakey.py
 
 # Shell Version
 ```bash
-$ wget https://raw.githubusercontent.com/alanndz/ExtraKey/master/extrakey.sh
+$ wget https://raw.githubusercontent.com/Kry9toN/ExtraKey/master/extrakey.sh
 ```
 ```bash
 $ chmod +x extrakey.sh
@@ -32,5 +32,5 @@ $ ./extrakey.sh
 Or
 
 ```bash
-$ wget https://raw.githubusercontent.com/alanndz/ExtraKey/master/extrakey.sh && chmod +x extrakey.sh && ./extrakey.sh
+$ wget https://raw.githubusercontent.com/Kry9toN/ExtraKey/master/extrakey.sh && chmod +x extrakey.sh && ./extrakey.sh
 ```
