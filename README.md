@@ -32,5 +32,5 @@ $ ./extrakey.sh
 Or
 
 ```bash
-$ wget https://raw.githubusercontent.com/Kry9toN/ExtraKey/master/extrakey.sh && chmod +x extrakey.sh && ./extrakey.sh
+$ sh -c "$(wget -O- https://raw.githubusercontent.com/Kry9toN/ExtraKey/master/extrakey.sh)"
 ```
