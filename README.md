@@ -2,6 +2,7 @@
 Extra Key Termux
 
 # Usage
+## Python version
 ```bash
 $ pkg install python
 ```
@@ -18,7 +19,7 @@ $ cd Extrakey
 $ python extrakey.py
 ```
 
-# Shell Version
+## Shell Version
 ```bash
 $ wget https://raw.githubusercontent.com/Kry9toN/ExtraKey/master/extrakey.sh
 ```
